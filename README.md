@@ -110,8 +110,8 @@ cv2.waitKey(0)
 ## Output
 
 ### Original Image
-<br>![dip2](https://user-images.githubusercontent.com/94154780/169657591-3acc6f32-d761-43c6-b4f7-5ef08af697e7.png)<br>
-<br>1916d0.png)![dip3](https://user-images.githubusercontent.com/94154780/169658123-bc01f063-3234-4ece-8390-5320d772a3e9.png)<br>
+<br>![dip2](https://user-images.githubusercontent.com/94154780/169657591-3acc6f32-d761-43c6-b4f7-5ef08af697e7.png)
+<br>[dip3](https://user-images.githubusercontent.com/94154780/169658123-bc01f063-3234-4ece-8390-5320d772a3e9.png)<br>
 
 
 
